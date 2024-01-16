@@ -7,4 +7,4 @@ y = y coordinate from calibration
 width = width of Tictactoe box in pixels
 height = width of Tictactoe box in pixels
 
-3.python /robo_tictactoe/main/mainfinal.py
+3.python /main/mainfinal.py
